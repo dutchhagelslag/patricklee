@@ -14,4 +14,4 @@ url: 'https://dutchhagelslag.github.io/' # your main domain
 baseurl: 'patricklee/' # if you're using custom domain keep this blank example: baseurl: ''
 
 #markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: dutchhagelslag/jekyll-theme-console
