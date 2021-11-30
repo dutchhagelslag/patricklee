@@ -13,3 +13,4 @@ with some careful timing, you can preserve your momentum between flips enabling 
 
 <img src="{{ "assets/flipside.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 
+<img src="{{site.baseurl | prepend: site.url}}assets/flipside.gif" alt="zigzag" />
