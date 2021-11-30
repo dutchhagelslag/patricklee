@@ -1,0 +1,11 @@
+---
+layout: post
+title: "bluff: an online game where you bluff" 
+categories:
+---
+
+# Bluff
+Bluff is a social online game where bluffing is essential. The last person left alive with a character still alive is the winner.
+
+## Rules
+Based off the game Coop, Bluff has no diferences other than that its online.
