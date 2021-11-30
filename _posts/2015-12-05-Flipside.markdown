@@ -9,8 +9,5 @@ a platform puzzle game. flip upside down and up into the surroundings into diffe
 
 with some careful timing, you can preserve your momentum between flips enabling satisfying movement. sounds pretty simple but surprisingly fun. 
 
-![My helpful gif2](/assets/flipside.gif)
-
 <img src="{{ "assets/flipside.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 
-<img src="{{site.baseurl | prepend: site.url}}assets/flipside.gif" alt="zigzag" />
