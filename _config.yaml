@@ -9,5 +9,9 @@ header_pages:
 
 style: light
 
+
+url: 'https://dutchhagelslag.github.io/' # your main domain
+#baseurl: 'PythonFunctionLibrary/' # if you're using custom domain keep this blank example: baseurl: ''
+
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
