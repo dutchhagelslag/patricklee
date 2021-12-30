@@ -8,4 +8,4 @@ categories:
 a social online game where bluffing is essential. The last person left alive with a character still alive is the winner.
 
 ## rules
-based off the game Coop, Bluff has no diferences other than that its online.
+based off the game Coup, Bluff has no diferences other than that its online.
